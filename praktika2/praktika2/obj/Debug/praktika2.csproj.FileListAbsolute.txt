@@ -1,0 +1,13 @@
+C:\Users\gnost\source\repos\praktika2\praktika2\bin\Debug\praktika2.exe.config
+C:\Users\gnost\source\repos\praktika2\praktika2\bin\Debug\praktika2.exe
+C:\Users\gnost\source\repos\praktika2\praktika2\bin\Debug\praktika2.pdb
+C:\Users\gnost\source\repos\praktika2\praktika2\obj\Debug\praktika2.csproj.AssemblyReference.cache
+C:\Users\gnost\source\repos\praktika2\praktika2\obj\Debug\praktika2.Form1.resources
+C:\Users\gnost\source\repos\praktika2\praktika2\obj\Debug\praktika2.Form2.resources
+C:\Users\gnost\source\repos\praktika2\praktika2\obj\Debug\praktika2.Properties.Resources.resources
+C:\Users\gnost\source\repos\praktika2\praktika2\obj\Debug\praktika2.csproj.GenerateResource.cache
+C:\Users\gnost\source\repos\praktika2\praktika2\obj\Debug\praktika2.csproj.CoreCompileInputs.cache
+C:\Users\gnost\source\repos\praktika2\praktika2\obj\Debug\praktika2.exe
+C:\Users\gnost\source\repos\praktika2\praktika2\obj\Debug\praktika2.pdb
+C:\Users\gnost\source\repos\praktika2\praktika2\obj\Debug\praktika2.Form3.resources
+C:\Users\gnost\source\repos\praktika2\praktika2\obj\Debug\praktika2.Form4.resources
